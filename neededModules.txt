@@ -1,0 +1,6 @@
+Flask
+python-dotenv(for use with setting .flaskenv variables)
+
+flask-wtf
+
+flask-sqlalchemy
