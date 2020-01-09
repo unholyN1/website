@@ -1,3 +1,4 @@
-# NicheDeals
+Simple website generation.
 
-Niche Deals webscraper project
+
+Uses flask framework to run website. Currently using templated pages that flask can route to specific addresses
